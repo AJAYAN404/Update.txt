@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/105.0.0.18.69;FBBV/34567890;FBDM/{density=2.5,width=720,height=1280};FBLC/fr_FR;FBCR/Orange;FBMF/Huawei;FBBD/Huawei;FBPN/com.facebook.katana;FBDV/HUAWEI P20;FBSV/10.0.0;FBOP/20;FBCA/arm64-v8a:armeabi-v7a;]
+[FBAN/FB4A;FBAV/250.0.0.48.110;FBBV/36509871;FBDM/{density=2.5,width=1080,height=2400};FBLC/en_IN;FBCR/Airtel;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/OPPO Reno3 Pro;FBSV/10.0;FBOP/1;FBCA/arm64-v8a:arm64-v8a;]
