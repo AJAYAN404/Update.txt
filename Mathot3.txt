@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/303.0.0.30.122;FBBV/269803857;FBDM/{density=3.0,width=1080,height=1812};FBLC/it_IT;FBRV/271519795;FBCR/vodafone IT;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/VIE-L09;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A; FBAV/340.0.0.43.124; FBBV/215432987; FBDM/{density=3.0,width=1080,height=2400}; FBLC/en_GB; FBRV/0; FBCR/Vodafone; FBMF/Huawei; FBBD/Huawei; FBPN/com.facebook.katana; FBDV/Huawei Nova 5T; FBSV/10.0; FBOP/13; FBCA/arm64-v8a:arm64;]
