@@ -1,1 +1,1 @@
-[FBAN/FB4A; FBAV/355.0.0.40.122; FBBV/219875432; FBDM/{density=3.5,width=1080,height=2340}; FBLC/de_DE; FBRV/0; FBCR/Telekom; FBMF/ASUS; FBBD/ASUS; FBPN/com.facebook.katana; FBDV/ASUS ROG Phone 3; FBSV/10.0; FBOP/14; FBCA/arm64-v8a:arm64;]
+[FBAN/FB4A;FBAV/270.0.0.52.120;FBBV/205234567;FBDM/{density=2.5,width=1080,height=2400};FBLC/en_US;FBRV/206234567;FBCR/Jio;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/Realme_7_Pro;FBSV/10.0;FBOP/19;FBCA/arm64-v8a:armeabi-v7a;]
