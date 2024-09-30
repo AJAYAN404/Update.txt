@@ -1,1 +1,1 @@
-[FBAN/FB4A; FBAV/369.0.0.23.126; FBBV/200345678; FBDM/{density=3.0,width=1080,height=1920}; FBLC/en_GB; FBRV/0; FBCR/Verizon; FBMF/Samsung; FBBD/Samsung; FBPN/com.facebook.katana; FBDV/Galaxy S10; FBSV/10.0; FBOP/12; FBCA/arm64-v8a:arm64;]
+[FBAN/FB4A;FBAV/250.0.0.40.183;FBBV/209876543;FBDM/{density=2.0,width=720,height=1600};FBLC/en_IN;FBRV/210123456;FBCR/Jio;FBMF/Huawei;FBBD/Huawei;FBPN/com.facebook.katana;FBDV/Enjoy_20;FBSV/10.0;FBOP/19;FBCA/arm64-v8a:armeabi-v7a;]
