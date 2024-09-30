@@ -1,1 +1,1 @@
-[FBAN/FB4A; FBAV/340.0.0.35.120; FBBV/214543987; FBDM/{density=2.5,width=720,height=1600}; FBLC/en_ID; FBRV/0; FBCR/Telkomsel; FBMF/Vivo; FBBD/Vivo; FBPN/com.facebook.katana; FBDV/Vivo Y20; FBSV/10.0; FBOP/13; FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/270.0.0.42.123;FBBV/204890123;FBDM/{density=2.5,width=1080,height=2340};FBLC/en_IN;FBRV/206789012;FBCR/Airtel;FBMF/Vivo;FBBD/Vivo;FBPN/com.facebook.katana;FBDV/Vivo_Y50;FBSV/10.0;FBOP/19;FBCA/arm64-v8a:armeabi-v7a;]
