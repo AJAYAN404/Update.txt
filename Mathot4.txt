@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/315.0.0.38.116;FBBV/765432109;FBDM/{density=2.5,width=1080,height=2340};FBLC/en_AU;FBRV/765432109;FBCR/Telstra;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/Galaxy Note 10;FBSV/10;FBOP/1;FBCA/arm64-v8a;]
+[FBAN/FB4A;FBAV/380.0.0.45.180;FBBV/667890123;FBDM/{density=2.5,width=1080,height=2400};FBLC/en_PH;FBRV/667890123;FBCR/Globe;FBMF/Oppo;FBBD/Oppo;FBPN/com.facebook.katana;FBDV/Reno 5;FBSV/10;FBOP/1;FBCA/arm64-v8a;]
