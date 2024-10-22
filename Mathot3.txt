@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/10.0.0.28.70;FBBV/101012345;FBDM/{density=3.0,width=1080,height=1920};FBLC/zh_CN;FBRV/108109876;FBCR/China Mobile;FBMF/Oppo;FBBD/Oppo;FBPN/com.facebook.katana;FBDV/F3 Plus;FBSV/7.1.2;FBOP/1;FBCA/armeabi-v7a;]
+[FBAN/FB4A;FBAV/15.6.7.89.123;FBBV/567890123;FBDM/{density=2.6,width=1080,height=2340};FBLC/en_US;FBRV/345678912;FBCR/Sprint;FBMF/ASUS;FBBD/ASUS;FBPN/com.facebook.katana;FBDV/ZenFone Max Pro M2;FBSV/10.0;FBOP/1;FBCA/arm64-v8a;]
