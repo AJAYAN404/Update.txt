@@ -1,1 +1,1 @@
-[fban/fb4a;fbav/308.0.0.42.118;fbbv/275987658;fbdm/{density=3.5width=1440height=2831};fblc/en_us;fbrv/277740997;fbcr/verizon wireless;fbmf/samsung;fbbd/samsung;fbpn/com.facebook.katana;fbdv/sm-n986u;fbsv/11;fbop/1;fbca/arm64-v8a:;]
+[FBAN/FB4A;FBAV/338.1.0.36.118;FBBV/321391444;FBDM/{density=2.8125,width=1080,height=2190};FBLC/en_US;FBRV/322565626;FBCR/Telekom.mk;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G998B;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
