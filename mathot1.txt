@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957718;FBDM/{density=1.75,width=720,height=1411};FBLC/ru_RU;FBRV/334626402;FBCR/Beeline;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-M115F;FBSV/11;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+0.1
